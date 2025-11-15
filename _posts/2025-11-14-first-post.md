@@ -12,7 +12,7 @@ description: "The first website I have ever made on Github."
 </p>
 ## Summary
 This is my first ever website I made usimg Github. Hopefully i'll continue to post more of them and develop my skills so I can have a timeline of posts.
-
+## Content
 Welcome to my website!
 <details>
 <summary> Click </summary>
